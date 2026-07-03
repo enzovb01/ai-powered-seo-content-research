@@ -172,3 +172,105 @@ A practical guide for organizing content into topic clusters that strengthen top
 
 - Create reusable content templates.
 - Develop topic maps.
+
+---
+
+# Ross Simmonds
+
+## Newsletter 1
+
+**Title:** The 5 Best Books Every Modern Marketer Should Read in 2026 to Master GenAI & LLMs
+
+**Date:** June 25, 2026
+
+**Source:** RossSimmonds.com
+
+**URL:** https://rosssimmonds.com/
+
+### Summary
+
+Ross recommends foundational resources for understanding GenAI and LLMs while emphasizing continuous learning as a competitive advantage for marketers.
+
+### Key Takeaways
+
+- AI literacy is becoming essential for marketers.
+- Books remain valuable despite rapid AI evolution.
+- Continuous learning creates long-term advantage.
+
+---
+
+# Overall Newsletter Patterns
+
+- Continuous learning.
+- AI adoption.
+- Practical marketing education.
+
+---
+
+# Knowledge Extracted
+
+## Mental Models
+
+- Learning compounds over time.
+- AI rewards adaptable marketers.
+
+## Best Practices
+
+- Invest in continuous education.
+- Stay current with AI developments.
+
+## Actionable Ideas
+
+- Build a personal AI reading list.
+- Review emerging AI tools monthly.
+
+---
+
+# Amanda Natividad
+
+## Newsletter 1
+
+**Title:** The Menu
+
+**Date:** Ongoing
+
+**Source:** AmandaNat.com
+
+**URL:** https://amandanat.com/
+
+### Summary
+
+Amanda's weekly newsletter shares concise marketing ideas centered on Zero-Click Marketing, audience research and sustainable brand growth. It focuses on helping marketers build demand despite declining organic clicks. :contentReference[oaicite:5]{index=5}
+
+### Key Takeaways
+
+- Teach before selling.
+- Build demand through visibility.
+- Prioritize clarity over volume.
+
+---
+
+# Overall Newsletter Patterns
+
+- Practical marketing advice.
+- Zero-click philosophy.
+- Audience-first thinking.
+
+---
+
+# Knowledge Extracted
+
+## Mental Models
+
+- Great marketing earns attention before asking for action.
+- Visibility compounds.
+
+## Best Practices
+
+- Write concise educational content.
+- Build trust consistently.
+
+## Actionable Ideas
+
+- Create a recurring educational newsletter.
+- Repurpose newsletter insights into social content.

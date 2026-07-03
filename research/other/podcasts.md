@@ -63,3 +63,67 @@ Ryan discusses how AI should support content operations instead of replacing mar
 - AI-assisted workflows.
 - Human expertise.
 - Long-term topical authority.
+
+---
+
+# Ross Simmonds
+
+## Podcast 1
+
+**Title:** Smart Content Distribution Strategies
+
+**Host:** Agents of Change
+
+**Date:** 2025
+
+**URL:** https://www.theagentsofchange.com/ross-simmonds
+
+### Summary
+
+Ross explains why marketers should invest more effort in distributing existing content than constantly creating new assets. His approach focuses on building repeatable distribution systems.
+
+### Key Takeaways
+
+- Distribution is a growth multiplier.
+- Repurpose before creating something new.
+- AI helps scale distribution workflows.
+
+---
+
+# Overall Podcast Patterns
+
+- Systematic distribution.
+- AI-assisted repurposing.
+- Long-term content ROI.
+
+---
+
+# Amanda Natividad
+
+## Podcast 1
+
+**Title:** Zero Click Marketing
+
+**Host:** Zero Click Marketing Podcast
+
+**Date:** Ongoing
+
+**URL:** https://zeroclickmarketing.co/about
+
+### Summary
+
+Amanda explores how marketers can create demand in a world where platforms increasingly keep users inside their ecosystems. The podcast focuses on building trust, brand recognition and long-term visibility instead of chasing clicks. :contentReference[oaicite:7]{index=7}
+
+### Key Takeaways
+
+- Demand generation starts on-platform.
+- Trust is built before conversions.
+- Zero-click content strengthens brand awareness.
+
+---
+
+# Overall Podcast Patterns
+
+- Brand-first marketing.
+- Zero-click strategy.
+- Audience trust.

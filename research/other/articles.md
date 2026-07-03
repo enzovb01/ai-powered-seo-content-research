@@ -85,3 +85,67 @@ Ryan explores how AI changes SEO by shifting the focus from publishing volume to
 - Research-driven SEO.
 - Topic authority.
 - Editorial excellence.
+
+---
+
+# Ross Simmonds
+
+## Article 1
+
+**Title:** Treating YouTube as Content with Purpose
+
+**Source:** EnterpriseZone
+
+**Date:** July 2026
+
+**URL:** https://enterprisezone.cc/treating-youtube-as-a-content-with-purpose-argues-ross-simmonds/
+
+### Summary
+
+Ross argues that B2B teams should stop using YouTube as a repository for recordings and instead optimize videos for search, AI discoverability and lead generation.
+
+### Key Takeaways
+
+- Optimize YouTube for search intent.
+- Improve discoverability with better metadata.
+- Treat video as a strategic content asset.
+
+---
+
+# Overall Article Patterns
+
+- Video SEO.
+- AI discoverability.
+- Content optimization.
+
+---
+
+# Amanda Natividad
+
+## Article 1
+
+**Title:** Audience Research: The Complete Guide for Marketers
+
+**Source:** SparkToro
+
+**Date:** February 3, 2025
+
+**URL:** https://sparktoro.com/blog/audience-research-the-complete-guide-for-marketers/
+
+### Summary
+
+Amanda presents a practical framework for understanding audience behavior using search, clickstream and social data. She argues that audience research should inform every content strategy before production begins. :contentReference[oaicite:6]{index=6}
+
+### Key Takeaways
+
+- Audience research reduces marketing guesswork.
+- Behavior matters more than assumptions.
+- Better insights produce stronger content.
+
+---
+
+# Overall Article Patterns
+
+- Audience-first marketing.
+- Research-driven strategy.
+- Data-informed content planning.
