@@ -376,3 +376,35 @@ This article explores how expertise, experience and trust continue influencing s
 - Technical quality.
 - EEAT.
 - Site architecture.
+
+---
+
+# Tom Critchlow
+
+## Article 1
+
+**Title:** Systems Thinking for Marketing
+
+**Source:** TomCritchlow.com
+
+**Date:** Ongoing
+
+**URL:** https://tomcritchlow.com/
+
+### Summary
+
+Tom explains why marketing teams should invest in systems that improve execution over time instead of relying on isolated campaigns.
+
+### Key Takeaways
+
+- Systems outperform tactics.
+- Documentation improves execution.
+- Repeatability creates scale.
+
+---
+
+# Overall Article Patterns
+
+- Systems thinking.
+- Knowledge management.
+- Organizational learning.

@@ -443,3 +443,54 @@ Most of Bernard Huang's educational content is published through Clearscope webi
 No recurring personal newsletter was identified during this research.
 
 Most educational content is published through Zyppy articles, webinars and LinkedIn.
+
+---
+
+# Tom Critchlow
+
+## Newsletter 1
+
+**Title:** Tom Critchlow Newsletter
+
+**Date:** Ongoing
+
+**Source:** TomCritchlow.com
+
+**URL:** https://tomcritchlow.com/
+
+### Summary
+
+Tom regularly shares essays about systems thinking, knowledge management and strategic marketing. The newsletter focuses on building better decision-making processes rather than tactical growth hacks.
+
+### Key Takeaways
+
+- Think in systems.
+- Document learning.
+- Build repeatable processes.
+
+---
+
+# Overall Newsletter Patterns
+
+- Strategic thinking.
+- Systems design.
+- Continuous learning.
+
+---
+
+# Knowledge Extracted
+
+## Mental Models
+
+- Systems create leverage.
+- Knowledge compounds.
+
+## Best Practices
+
+- Write documentation.
+- Share internal knowledge.
+
+## Actionable Ideas
+
+- Publish internal playbooks.
+- Review documentation monthly.

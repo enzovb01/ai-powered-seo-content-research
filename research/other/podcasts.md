@@ -263,3 +263,11 @@ Bernard explains practical workflows for improving AI Search visibility through 
 No recurring podcast hosted by Cyrus Shepard was identified during this research.
 
 Relevant educational material is primarily available through Zyppy articles and webinars.
+
+---
+
+# Tom Critchlow
+
+No recurring podcast hosted by Tom Critchlow was identified during this research.
+
+Most educational content is published through essays, talks and his personal newsletter.
