@@ -325,3 +325,54 @@ Eli's newsletter explores how SEO evolves alongside AI Search while maintaining 
 
 - Review search strategy quarterly.
 - Align SEO with product development.
+
+---
+
+# Aleyda Solís
+
+## Newsletter 1
+
+**Title:** SEOFOMO
+
+**Date:** Weekly
+
+**Source:** SEOFOMO
+
+**URL:** https://www.seofomo.co/
+
+### Summary
+
+SEOFOMO is one of the most widely followed SEO newsletters, curating the latest news, AI Search updates, tools and educational resources. It helps marketers stay current without monitoring dozens of individual sources.
+
+### Key Takeaways
+
+- Stay updated on AI Search developments.
+- Learn from curated industry resources.
+- Continuous learning is part of modern SEO.
+
+---
+
+# Overall Newsletter Patterns
+
+- Continuous education.
+- AI Search monitoring.
+- Curated industry knowledge.
+
+---
+
+# Knowledge Extracted
+
+## Mental Models
+
+- Learning compounds over time.
+- Staying informed creates competitive advantages.
+
+## Best Practices
+
+- Read industry updates weekly.
+- Track Google AI announcements.
+
+## Actionable Ideas
+
+- Schedule a weekly SEO learning session.
+- Maintain an AI Search change log.

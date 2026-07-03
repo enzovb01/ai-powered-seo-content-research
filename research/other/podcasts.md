@@ -159,3 +159,35 @@ Eli explains why AI changes the search funnel without eliminating SEO. He emphas
 - Product-first strategy.
 - AI Search adaptation.
 - Sustainable organic growth.
+
+---
+
+# Aleyda Solís
+
+## Podcast 1
+
+**Title:** Crawling Mondays
+
+**Host:** Aleyda Solís
+
+**Date:** Ongoing
+
+**URL:** https://www.aleydasolis.com/
+
+### Summary
+
+Crawling Mondays features practical discussions about technical SEO, AI Search, Google updates and optimization strategies for marketers and SEO professionals.
+
+### Key Takeaways
+
+- Technical SEO supports AI visibility.
+- Google updates require continuous adaptation.
+- Practical experimentation improves SEO outcomes.
+
+---
+
+# Overall Podcast Patterns
+
+- Technical excellence.
+- AI Search evolution.
+- Continuous optimization.

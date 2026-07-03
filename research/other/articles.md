@@ -181,3 +181,35 @@ Eli introduces Product-Led SEO as a framework that prioritizes user experience a
 - Product-first SEO.
 - User-centric optimization.
 - Sustainable growth.
+
+---
+
+# Aleyda Solís
+
+## Article 1
+
+**Title:** SEO vs GEO: Optimizing for Traditional Search vs AI Search
+
+**Source:** AleydaSolis.com
+
+**Date:** April 2025
+
+**URL:** https://www.aleydasolis.com/
+
+### Summary
+
+Aleyda compares traditional SEO with Generative Engine Optimization (GEO), explaining how both disciplines should work together instead of being treated as separate strategies.
+
+### Key Takeaways
+
+- GEO extends SEO.
+- Technical quality remains essential.
+- AI optimization starts with strong SEO fundamentals.
+
+---
+
+# Overall Article Patterns
+
+- AI Search adaptation.
+- Technical SEO.
+- Sustainable optimization.
