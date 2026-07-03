@@ -322,3 +322,57 @@ This article explores new metrics for evaluating AI Search performance, includin
 - Prompt-first optimization.
 - Entity-based SEO.
 - AI visibility measurement.
+
+---
+
+# Cyrus Shepard
+
+## Article 1
+
+**Title:** Internal Linking for Better SEO
+
+**Source:** Zyppy
+
+**Date:** 2025
+
+**URL:** https://zyppy.com/
+
+### Summary
+
+Cyrus explains how internal linking improves topical understanding, distributes authority and strengthens search visibility.
+
+### Key Takeaways
+
+- Internal links reinforce topical authority.
+- Better architecture improves discoverability.
+- AI benefits from stronger page relationships.
+
+---
+
+## Article 2
+
+**Title:** EEAT in Modern Search
+
+**Source:** Zyppy
+
+**Date:** 2025
+
+**URL:** https://zyppy.com/
+
+### Summary
+
+This article explores how expertise, experience and trust continue influencing search performance in AI-assisted search environments.
+
+### Key Takeaways
+
+- EEAT remains relevant.
+- Trust supports AI citations.
+- Authority requires consistency.
+
+---
+
+# Overall Article Patterns
+
+- Technical quality.
+- EEAT.
+- Site architecture.

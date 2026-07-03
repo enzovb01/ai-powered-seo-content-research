@@ -255,3 +255,11 @@ Bernard explains practical workflows for improving AI Search visibility through 
 - AI Search experimentation.
 - Prompt-first workflows.
 - Citation-based optimization.
+
+---
+
+# Cyrus Shepard
+
+No recurring podcast hosted by Cyrus Shepard was identified during this research.
+
+Relevant educational material is primarily available through Zyppy articles and webinars.

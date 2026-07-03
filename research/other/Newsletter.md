@@ -435,3 +435,11 @@ Ahrefs regularly publishes SEO, content marketing and AI Search research through
 No recurring personal newsletter was identified during this research.
 
 Most of Bernard Huang's educational content is published through Clearscope webinars, blog articles and LinkedIn rather than a standalone newsletter.
+
+---
+
+# Cyrus Shepard
+
+No recurring personal newsletter was identified during this research.
+
+Most educational content is published through Zyppy articles, webinars and LinkedIn.
