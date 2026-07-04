@@ -6,7 +6,7 @@
 
 **Date:** April 2025
 
-**URL:** https://www.linkedin.com/in/aleydasolis/
+**URL:** https://www.linkedin.com/in/aleyda/
 
 ### Summary
 
@@ -28,7 +28,7 @@ Aleyda explains the differences between traditional SEO and Generative Engine Op
 
 **Date:** March 2025
 
-**URL:** https://www.linkedin.com/in/aleydasolis/
+**URL:** https://www.linkedin.com/in/aleyda/
 
 ### Summary
 
@@ -50,7 +50,7 @@ After testing Google's AI Mode, Aleyda shares early observations about user expe
 
 **Date:** 2025
 
-**URL:** https://www.linkedin.com/in/aleydasolis/
+**URL:** https://www.linkedin.com/in/aleyda/
 
 ### Summary
 

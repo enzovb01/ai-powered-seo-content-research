@@ -1,4 +1,4 @@
-# Amanda Natividad – YouTube Research
+# Amanda Natividad – Source Research
 
 ---
 

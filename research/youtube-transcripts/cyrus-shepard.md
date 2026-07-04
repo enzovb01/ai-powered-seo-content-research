@@ -2,13 +2,13 @@
 
 ---
 
-## Webinar: SEO Fundamentals for AI Search
+## A New Era in SEO
 
 **Date:** 2025
 
 **Source:** Zyppy SEO
 
-**URL:** https://zyppy.com/
+**URL:** https://www.youtube.com/watch?v=fiHOEirsBw0
 
 ### Summary
 

@@ -27,7 +27,7 @@ Eli explains why Product-Led SEO remains effective despite the rise of AI Search
 
 ---
 
-## Video 2: Rethinking SEO in the Age of AI
+## Source 2: Rethinking SEO in the Age of AI
 
 **Date:** 2024
 

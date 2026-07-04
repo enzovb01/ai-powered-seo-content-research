@@ -8,7 +8,7 @@
 
 **Source:** Crawling Mondays
 
-**URL:** https://www.youtube.com/@CrawlingMondays
+**URL:** https://www.youtube.com/@CrawlingMondaysbyAleyda
 
 ### Summary
 
@@ -32,7 +32,7 @@ Aleyda summarizes the most important AI-related announcements from Google's Sear
 
 **Source:** Crawling Mondays
 
-**URL:** https://www.youtube.com/@CrawlingMondays
+**URL:** https://www.youtube.com/@CrawlingMondaysbyAleyda
 
 ### Summary
 
