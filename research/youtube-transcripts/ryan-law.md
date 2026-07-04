@@ -8,7 +8,7 @@
 
 **Source:** Ahrefs YouTube
 
-**URL:** https://www.youtube.com/@Ahrefs
+**URL:** https://www.youtube.com/@AhrefsCom
 
 ### Summary
 
@@ -33,7 +33,7 @@ Ryan explains how AI can reduce production time while maintaining quality throug
 
 **Source:** Ahrefs
 
-**URL:** https://www.youtube.com/@Ahrefs
+**URL:** https://www.youtube.com/@AhrefsCom
 
 ### Summary
 

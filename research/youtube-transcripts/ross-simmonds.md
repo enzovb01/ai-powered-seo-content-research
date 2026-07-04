@@ -6,9 +6,9 @@
 
 **Date:** 2024
 
-**Source:** Exit Five
+**Source:** Youtube
 
-**URL:** https://www.exitfive.com/podcast/create-once-distribute-forever-content-marketing-distribution-with-ross-simmonds-founder-of-ceo-at-foundation-distribution-ai
+**URL:** https://www.youtube.com/watch?v=6pwD9xcPD-4
 
 ### Summary
 

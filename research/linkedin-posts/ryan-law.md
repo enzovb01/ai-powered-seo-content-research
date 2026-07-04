@@ -6,7 +6,7 @@
 
 **Date:** 2025
 
-**URL:** https://www.linkedin.com/in/theryanlaw/
+**URL:** https://www.linkedin.com/in/thinkingslow/
 
 ### Summary
 

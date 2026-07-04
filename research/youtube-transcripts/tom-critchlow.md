@@ -1,24 +1,24 @@
-# Tom Critchlow – Video Research
+# Tom Critchlow – YouTube Research
 
 ---
 
-## Talk: Systems Thinking for Modern Marketing
+## Video 1: What Your CMO Needs to Know About AI Search w/ Tom Critchlow
 
 **Date:** 2025
 
-**Source:** Tom Critchlow
+**Source:** YouTube
 
-**URL:** https://tomcritchlow.com/
+**URL:** https://www.youtube.com/watch?v=MTBIMRF1DLE
 
 ### Summary
 
-Tom discusses how marketers can build scalable systems instead of relying on isolated tactics. He emphasizes documentation, experimentation and continuous improvement as the foundation for sustainable growth.
+Tom explains why marketers should think in systems instead of isolated tactics. Rather than optimizing individual campaigns, he encourages building repeatable processes that make research, execution and learning easier over time. AI becomes more valuable when it supports an already well-designed system instead of replacing strategic thinking.
 
 ### Main Ideas
 
-- Marketing should be systematized.
-- Documentation enables scaling.
-- AI can strengthen decision-making.
+- Systems scale better than isolated tactics.
+- Documentation turns experience into repeatable knowledge.
+- AI is most valuable when it supports structured workflows.
 
 ### Frameworks
 
@@ -29,11 +29,11 @@ Tom discusses how marketers can build scalable systems instead of relying on iso
 
 # Overall Video Patterns
 
-- Systems outperform tactics.
-- Documentation accelerates learning.
-- AI supports strategic thinking.
-- Continuous improvement creates long-term value.
-- Marketing operations should be repeatable.
+- Marketing should be designed as a repeatable system.
+- Documentation creates long-term organizational knowledge.
+- AI improves execution but doesn't replace strategy.
+- Small improvements compound over time.
+- Consistent processes outperform one-off successes.
 
 ---
 
@@ -41,18 +41,18 @@ Tom discusses how marketers can build scalable systems instead of relying on iso
 
 ## Mental Models
 
-- Every workflow should become a system.
-- Documentation creates organizational memory.
-- AI enhances structured thinking.
+- Build systems, not isolated campaigns.
+- Every process should become easier to repeat.
+- AI amplifies good systems more than it fixes bad ones.
 
 ## Best Practices
 
-- Standardize recurring workflows.
-- Review processes regularly.
-- Capture lessons learned.
+- Document recurring workflows.
+- Review and improve processes regularly.
+- Standardize successful approaches.
 
 ## Actionable Ideas
 
-- Build internal SOPs.
-- Maintain a research repository.
-- Review marketing systems quarterly.
+- Create internal SOPs for recurring tasks.
+- Maintain a centralized research repository.
+- Schedule periodic reviews of marketing workflows.
